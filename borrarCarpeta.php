@@ -12,4 +12,3 @@ function funBorrarCarperta($rutaCarpeta){
 
 	rmdir($rutaCarpeta);
 }
-//-----------------------------------------------------------------------------
